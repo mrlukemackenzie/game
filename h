@@ -1,3 +1,4 @@
+<html>
 <body>
   <div style="--total: 12;" class="circle-wrapper">
     <div class="center-element">The Team</div>
@@ -133,3 +134,4 @@
     </defs>
   </svg>
 </body>
+</html>
